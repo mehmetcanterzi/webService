@@ -1,0 +1,54 @@
+2021-34-12 23:34:10.426 [main] INFO  pages.TrelloPage - Board Created. Name : Test Board, ID : 60c51a426b97a02eff0939fd
+2021-34-12 23:34:10.665 [main] INFO  pages.TrelloPage - List Created. Name : Test List, ID : 60c51a43913b89723ddad394
+2021-34-12 23:34:10.860 [main] INFO  pages.TrelloPage - Lists size : 4 for board with ID : 60c51a426b97a02eff0939fd
+2021-34-12 23:34:14.739 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card, ID : 60c51a47edba2045fe17bb09
+2021-34-12 23:34:15.607 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card 2, ID : 60c51a48c5f45c237799dbd8
+2021-34-12 23:34:16.472 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c51a48c5f45c237799dbd8, Parameter : name, New Value : NewName
+2021-34-12 23:34:17.250 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c51a48c5f45c237799dbd8, Parameter : desc, New Value : New Desc
+2021-34-12 23:34:18.049 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c51a47edba2045fe17bb09
+2021-34-12 23:34:18.332 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c51a48c5f45c237799dbd8
+2021-34-12 23:34:18.867 [main] INFO  pages.TrelloPage - Board Deleted. Card ID : 60c51a426b97a02eff0939fd
+2021-51-12 23:51:39.917 [main] INFO  pages.TrelloPage - Board Created. Name : Test Board, ID : 60c51e5cc76b9f4b29b5536b
+2021-51-12 23:51:40.157 [main] INFO  pages.TrelloPage - List Created. Name : Test List, ID : 60c51e5ca6d100607d74d51b
+2021-51-12 23:51:40.345 [main] INFO  pages.TrelloPage - Lists size : 4 for board with ID : 60c51e5cc76b9f4b29b5536b
+2021-51-12 23:51:43.790 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card, ID : 60c51e5f438a60301247d4f9
+2021-51-12 23:51:44.581 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card 2, ID : 60c51e60063e5b46d539f37e
+2021-51-12 23:51:45.349 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c51e5f438a60301247d4f9, Parameter : name, New Value : NewName
+2021-51-12 23:51:46.195 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c51e5f438a60301247d4f9, Parameter : desc, New Value : New Desc
+2021-51-12 23:51:46.919 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c51e5f438a60301247d4f9
+2021-51-12 23:51:47.199 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c51e60063e5b46d539f37e
+2021-51-12 23:51:47.662 [main] INFO  pages.TrelloPage - Board Deleted. Card ID : 60c51e5cc76b9f4b29b5536b
+2021-52-12 23:52:15.937 [main] INFO  pages.TrelloPage - Board Created. Name : Test Board, ID : 60c51e7f633de236e110bb34
+2021-52-12 23:52:16.173 [main] INFO  pages.TrelloPage - List Created. Name : Test List, ID : 60c51e80082353606f141bf6
+2021-52-12 23:52:16.362 [main] INFO  pages.TrelloPage - Lists size : 4 for board with ID : 60c51e7f633de236e110bb34
+2021-52-12 23:52:19.692 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card, ID : 60c51e83b52d6e2d44153adb
+2021-00-13 01:00:26.105 [main] INFO  pages.TrelloPage - Board Created. Name : Test Board, ID : 60c52e793f86bc6b8791f9f6
+2021-00-13 01:00:26.343 [main] INFO  pages.TrelloPage - List Created. Name : Test List, ID : 60c52e7a72045982bc9334e0
+2021-00-13 01:00:26.528 [main] INFO  pages.TrelloPage - Lists size : 4 for board with ID : 60c52e793f86bc6b8791f9f6
+2021-00-13 01:00:28.547 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card, ID : 60c52e7cf8f51142672ddce1
+2021-00-13 01:00:29.372 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card 2, ID : 60c52e7d847fdd5b6a9691f0
+2021-00-13 01:00:30.178 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c52e7d847fdd5b6a9691f0, Parameter : name, New Value : NewName
+2021-00-13 01:00:30.986 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c52e7d847fdd5b6a9691f0, Parameter : desc, New Value : New Desc
+2021-00-13 01:00:31.770 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c52e7cf8f51142672ddce1
+2021-00-13 01:00:32.048 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c52e7d847fdd5b6a9691f0
+2021-00-13 01:00:32.472 [main] INFO  pages.TrelloPage - Board Deleted. Card ID : 60c52e793f86bc6b8791f9f6
+2021-57-14 09:57:22.481 [main] INFO  pages.TrelloPage - Board Created. Name : Test Board, ID : 60c6fdd3cff0dc52f61806c0
+2021-57-14 09:57:22.704 [main] INFO  pages.TrelloPage - List Created. Name : Test List, ID : 60c6fdd390e63706c57722dc
+2021-57-14 09:57:22.900 [main] INFO  pages.TrelloPage - Lists size : 4 for board with ID : 60c6fdd3cff0dc52f61806c0
+2021-57-14 09:57:25.474 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card, ID : 60c6fdd6db2d3669c965ca0b
+2021-57-14 09:57:26.282 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card 2, ID : 60c6fdd61a9594581289de36
+2021-57-14 09:57:27.258 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c6fdd61a9594581289de36, Parameter : name, New Value : NewName
+2021-57-14 09:57:28.017 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c6fdd61a9594581289de36, Parameter : desc, New Value : New Desc
+2021-57-14 09:57:28.808 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c6fdd6db2d3669c965ca0b
+2021-57-14 09:57:29.097 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c6fdd61a9594581289de36
+2021-57-14 09:57:29.556 [main] INFO  pages.TrelloPage - Board Deleted. Card ID : 60c6fdd3cff0dc52f61806c0
+2021-58-14 09:58:08.902 [main] INFO  pages.TrelloPage - Board Created. Name : Test Board, ID : 60c6fe011671c667d0a2d60a
+2021-58-14 09:58:09.140 [main] INFO  pages.TrelloPage - List Created. Name : Test List, ID : 60c6fe01fa6cfe524b53340a
+2021-58-14 09:58:09.337 [main] INFO  pages.TrelloPage - Lists size : 4 for board with ID : 60c6fe011671c667d0a2d60a
+2021-58-14 09:58:11.741 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card, ID : 60c6fe041bfcf31262f3ed47
+2021-58-14 09:58:12.605 [main] INFO  pages.TrelloPage - Card Created. Name : Test Card 2, ID : 60c6fe059cdc0c0778659d92
+2021-58-14 09:58:13.350 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c6fe059cdc0c0778659d92, Parameter : name, New Value : NewName
+2021-58-14 09:58:14.114 [main] INFO  pages.TrelloPage - Card Updated. Card ID : 60c6fe059cdc0c0778659d92, Parameter : desc, New Value : New Desc
+2021-58-14 09:58:14.876 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c6fe041bfcf31262f3ed47
+2021-58-14 09:58:15.142 [main] INFO  pages.TrelloPage - Card Deleted. Card ID : 60c6fe059cdc0c0778659d92
+2021-58-14 09:58:15.687 [main] INFO  pages.TrelloPage - Board Deleted. Card ID : 60c6fe011671c667d0a2d60a
